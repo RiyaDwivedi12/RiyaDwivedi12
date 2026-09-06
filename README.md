@@ -12,14 +12,14 @@
 <a href="mailto:driya8978@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/RiyaDwivedi12">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://YOUR-PORTFOLIO-LINK">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=RiyaDwivedi12&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -102,7 +102,7 @@ A real-time sports matchmaking app helping players find and connect with others 
 - 📍 Nearby-match detection
 - ⚡ Real-time backend with Convex
 
-[![Repo](https://img.shields.io/badge/View_Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME/playconnect)
+[![Repo](https://img.shields.io/badge/View_Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiyaDwivedi12/playconnect)
 
 </td>
 <td width="50%" valign="top">
@@ -110,14 +110,14 @@ A real-time sports matchmaking app helping players find and connect with others 
 ### 🧶 Yarn Art Store
 **MERN Stack · Cloudinary**
 
-A full-stack e-commerce website for selling yarn and handmade products.
+A full-stack e-commerce site for yarn and handmade products.
 
 - 🔍 Product search & categories
 - 🛒 Cart & wishlist
 - 🛠️ Admin dashboard for products/orders
 - ☁️ Cloudinary image management
 
-[![Repo](https://img.shields.io/badge/View_Repo-4A00E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME/yarn-art-store)
+[![Repo](https://img.shields.io/badge/View_Repo-4A00E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiyaDwivedi12/yarn-art-store)
 [![Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-LIVE-DEMO-LINK)
 
 </td>
@@ -130,12 +130,12 @@ A full-stack e-commerce website for selling yarn and handmade products.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RiyaDwivedi12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyaDwivedi12&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaDwivedi12&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RiyaDwivedi12&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
