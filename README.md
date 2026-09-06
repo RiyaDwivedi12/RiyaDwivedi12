@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/riya-dwivedi-120a87350/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:driya8978@gmail.com">
