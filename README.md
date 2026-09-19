@@ -118,7 +118,7 @@ A full-stack e-commerce site for yarn and handmade products.
 - ☁️ Cloudinary image management
 
 [![Repo](https://img.shields.io/badge/View_Repo-4A00E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiyaDwivedi12/yarn-art-store)
-[![Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-LIVE-DEMO-LINK)
+[![Demo]( https://yarn-art-store.vercel.app )
 
 </td>
 </tr>
